@@ -23,6 +23,6 @@ const translate = async (text: string, source_lang: string = "auto", target_lang
     }
 }
 
-export default { translate }
+export default { translate }//s
 
 
